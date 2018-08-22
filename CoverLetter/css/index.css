@@ -45,21 +45,13 @@
   font-size: 20px;
 }
 
-.social-links-container {
-  margin: 15px 15px 15px 15px;
-  width: 600px;
-  float: right;
-  margin-right: 30px !important;
-}
 .link1 {
   width: 120px;
   height: 120px;
-  margin-right: 50px;
 }
 .link2 {
   width: 120px;
   height: 120px;
-  margin-right: 150px;
 }
 
 .d1 {

@@ -7,7 +7,8 @@
 }
 
 .all-father {
-  text-align: center;
+  width: 654px;
+  height: 793px;
 }
 
 .header-container, 
@@ -22,9 +23,18 @@
   font-family: verdana;
   text-align: center;
   font-weight: bold;
+  padding-left: 115px;
 }
 .inner-head {
   color: #3399CC;
+}
+
+.image-container {
+  padding-left: 115px;
+}
+
+.social-links-container {
+  text-align: center;
 }
 
 .image {
@@ -39,6 +49,7 @@
   text-align: left !important;
   background-image: url("*");
   margin: 15px 0px 15px 15px !important;
+  padding-left: 115px;
 }
 .inner-para {
   color: #3399CC;

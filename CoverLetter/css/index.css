@@ -37,23 +37,47 @@
   text-align: center;
 }
 
+.feedback-container {
+  margin-bottom: 30px;
+}
+.inner-feed {
+  margin-left: 146px;
+  padding: 5px 80px 5px 80px;
+  background-color: lightgrey;
+  border: 2px solid darkgrey;
+  border-radius: 5px;
+  font-family: Verdana;
+  font-weight: bold;
+}
+.inner-java {
+  margin-top: 15px;
+  margin-left: 145px;
+}
+.input-edit {
+  width: 160px;
+  padding-left: 5px;
+}
+.btn-submit {
+  margin-left: 5px;
+}
+
+.paragraph-container {
+  text-align: left !important;
+  background-image: url("*");
+  margin: 15px 0px 5px 15px !important;
+  padding-left: 115px;
+}
+.inner-para {
+  color: #3399CC;
+  font-size: 20px;
+}
+
 .image {
   width: 400px;
   height: 300px;
   border: 1px solid white;
   border-radius: 3px;
   margin-top: 15px;
-}
-
-.paragraph-container {
-  text-align: left !important;
-  background-image: url("*");
-  margin: 15px 0px 15px 15px !important;
-  padding-left: 115px;
-}
-.inner-para {
-  color: #3399CC;
-  font-size: 20px;
 }
 
 .link1 {

@@ -66,6 +66,7 @@
   background-color: #3399CC;
   color: white;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .paragraph-container {
